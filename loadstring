@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/11Sotalite/Universal-ASESP/refs/heads/main/ASESP%202.0"))()
